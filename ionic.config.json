@@ -1,0 +1,7 @@
+{
+  "name": "Mixi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
