@@ -1,13 +1,18 @@
 import { Component } from '@angular/core';
-import { IonHeader, IonToolbar, IonTitle, IonContent } from '@ionic/angular/standalone';
+import { IonContent } from '@ionic/angular/standalone';
+
+import { DataService } from '../services/data.service';
+
+import { LogoComponent } from '../components/logo/logo.component';
+import { IngredientPickerComponent } from './../components/ingredient-picker/ingredient-picker.component';
 
 @Component({
   selector: 'app-home',
   templateUrl: 'home.page.html',
   styleUrls: ['home.page.scss'],
   standalone: true,
-  imports: [IonHeader, IonToolbar, IonTitle, IonContent],
+  imports: [IonContent, LogoComponent, IngredientPickerComponent],
 })
 export class HomePage {
-  constructor() {}
+  constructor(private dataService: DataService) {}
 }

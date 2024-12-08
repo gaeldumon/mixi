@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Absinthe",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Aperol",
+    "abv": 11,
+    "taste": "bitter",
+    "common": true
+  },
+  {
+    "name": "Apricot brandy",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Blonde beer",
+    "abv": 6,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "White beer",
+    "abv": 5,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Stout beer (Guiness)",
+    "abv": 7,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "IPA beer",
+    "abv": 7,
+    "taste": "bitter",
+    "common": false
+  },
+  {
+    "name": "Blackberry liqueur",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Cachaca",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Calvados",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Campari",
+    "abv": 25,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Champagne",
+    "abv": 12,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Cherry liqueur",
+    "abv": 30,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Coconut milk",
+    "abv": 0,
+    "taste": "sweet",
+    "common": true
+  },
+  {
+    "name": "Coffee liqueur",
+    "abv": 20,
+    "taste": "bitter",
+    "common": false
+  },
+  {
+    "name": "Cognac",
+    "abv": 40,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Cola",
+    "abv": 0,
+    "taste": "sweet",
+    "common": true
+  },
+  {
+    "name": "Cranberry juice",
+    "abv": 0,
+    "taste": "sour",
+    "common": true
+  },
+  {
+    "name": "Cream",
+    "abv": 0,
+    "taste": "sweet",
+    "common": false
+  },
+  {
+    "name": "Cream liqueur",
+    "abv": 20,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Créme liqueur",
+    "abv": 20,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Dark rum",
+    "abv": 40,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "DiSaronno",
+    "abv": 28,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "DOM Bénédictine",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Drambuie",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Dry White Wine",
+    "abv": 12,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Egg yolk",
+    "abv": 0,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Galliano",
+    "abv": 30,
+    "taste": "sweet",
+    "common": false
+  },
+  {
+    "name": "Gin",
+    "abv": 40,
+    "taste": "herbal",
+    "common": true
+  },
+  {
+    "name": "Ginger Ale",
+    "abv": 0,
+    "taste": "spicy,sweet",
+    "common": true
+  },
+  {
+    "name": "Ginger beer",
+    "abv": 5,
+    "taste": "spicy,sweet",
+    "common": true
+  },
+  {
+    "name": "Grapefruit juice",
+    "abv": 0,
+    "taste": "sweet",
+    "common": true
+  },
+  {
+    "name": "Hot coffee",
+    "abv": 0,
+    "taste": "bitter",
+    "common": true
+  },
+  {
+    "name": "Kirsch",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Lemon juice",
+    "abv": 0,
+    "taste": "sour",
+    "common": true
+  },
+  {
+    "name": "Lillet Blonde",
+    "abv": 15,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Lime juice",
+    "abv": 0,
+    "taste": "sour",
+    "common": true
+  },
+  {
+    "name": "Olive juice",
+    "abv": 0,
+    "taste": "sour",
+    "common": false
+  },
+  {
+    "name": "Orange Bitters",
+    "abv": 40,
+    "taste": "bitter",
+    "common": false
+  },
+  {
+    "name": "Orange juice",
+    "abv": 0,
+    "taste": "sweet",
+    "common": true
+  },
+  {
+    "name": "Peach puree",
+    "abv": 0,
+    "taste": "sweet",
+    "common": false
+  },
+  {
+    "name": "Peach schnapps",
+    "abv": 40,
+    "taste": "sweet",
+    "common": false
+  },
+  {
+    "name": "Pineapple juice",
+    "abv": 0,
+    "taste": "sweet",
+    "common": true
+  },
+  {
+    "name": "Pisco",
+    "abv": 40,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Prosecco",
+    "abv": 12,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Raspberry liqueur",
+    "abv": 20,
+    "taste": "sweet",
+    "common": false
+  },
+  {
+    "name": "Red Port",
+    "abv": 20,
+    "taste": null,
+    "common": false
+  },
+  {
+    "name": "Soda water",
+    "abv": 0,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Syrup",
+    "abv": 0,
+    "taste": "sweet",
+    "common": true
+  },
+  {
+    "name": "Tequila",
+    "abv": 40,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Tomato juice",
+    "abv": 0,
+    "taste": "salty",
+    "common": true
+  },
+  {
+    "name": "Triple Sec",
+    "abv": 40,
+    "taste": "sweet",
+    "common": false
+  },
+  {
+    "name": "Vermouth",
+    "abv": 17,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Vodka",
+    "abv": 40,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "Whiskey",
+    "abv": 40,
+    "taste": null,
+    "common": true
+  },
+  {
+    "name": "White rum",
+    "abv": 40,
+    "taste": null,
+    "common": true
+  }
+]

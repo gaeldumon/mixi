@@ -19,7 +19,11 @@
     "target": "es2022",
     "module": "es2020",
     "lib": ["es2018", "dom"],
-    "useDefineForClassFields": false
+    "useDefineForClassFields": false,
+    // allows for importing, extracting types from .json files.
+    "resolveJsonModule": true,
+    // allows default imports from modules with no default export. This is required since a .json file has no default output.
+    "esModuleInterop": true
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,

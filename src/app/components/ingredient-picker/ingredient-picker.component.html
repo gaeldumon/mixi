@@ -1,0 +1,21 @@
+<ion-grid [fixed]="true">
+  <ion-row>
+    <ion-col>
+      <ion-searchbar (ionInput)="search($event)" show-clear-button="focus"></ion-searchbar>
+
+      <ion-list>
+        <ion-item *ngFor="let ingredient of displayableIngredients">
+          <ion-checkbox (click)="pick(ingredient)" labelPlacement="end" justify="start">
+            <ion-label class="ingredient-label">{{ ingredient.name }}</ion-label>
+          </ion-checkbox>
+        </ion-item>
+      </ion-list>
+
+      <ion-button expand="block">Search for cocktails</ion-button>
+
+      <app-ingredient-cart></app-ingredient-cart>
+      
+    </ion-col>
+  </ion-row>
+
+</ion-grid>
